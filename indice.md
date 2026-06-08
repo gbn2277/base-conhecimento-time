@@ -5,6 +5,8 @@
 
 
 <- as entradas serão adicionadas por cada responsável->
+
+fala tropa sou o Dudu Sapeca
 <<<<<<< HEAD
 =======
 
